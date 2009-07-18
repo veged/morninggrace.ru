@@ -1,0 +1,74 @@
+.content td
+{
+    height: 1em;
+}
+
+.content .layout-left-holder
+{
+    padding-right: 2em;
+}
+
+.content .layout-right-holder
+{
+    padding-left: 3.5em;
+}
+
+.content-image
+{
+    display: block;
+    width: 100%;
+    padding-bottom: 1em;
+}
+
+.content a
+{
+    color: #33757e;
+}
+
+.content .layout-right a
+{
+    color: #c9922b;
+}
+
+.content a:hover
+{
+    color: #b02a30;
+}
+
+.content-section
+{
+    padding-bottom: 1em;
+}
+
+.content h2,
+.content p
+{
+    margin: 0;
+    padding: 0;
+}
+
+.content h2
+{
+    padding-bottom: 0.7em;
+    font-weight: bold;
+    font-size: 170%;
+}
+
+.content p
+{
+    padding-bottom: 1em;
+    line-height: 1.5;
+}
+
+.content ul,
+.content li
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.content li
+{
+    padding-bottom: 0.7em;
+}

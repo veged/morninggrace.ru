@@ -1,0 +1,15 @@
+.foot
+{
+    font-size: 85%;
+}
+
+.foot-decoration td
+{
+    height: 1em;
+}
+
+.foot p
+{
+    margin: 0;
+    padding: 0 0 1em 0;
+}
