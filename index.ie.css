@@ -1,4 +1,5 @@
 @import url(index.css);
+@import url(layout/layout.ie.css);
 
 body
 {
