@@ -6,9 +6,19 @@
     font-weight: normal;
 }
 
+.head td
+{
+    height: 3em;
+}
+
 .head .layout-left
 {
     padding: 1.5em 0;
+}
+
+.head-decoration td
+{
+    height: 24px;
 }
 
 .head-decoration div

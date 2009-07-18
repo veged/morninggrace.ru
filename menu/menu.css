@@ -1,0 +1,41 @@
+.menu td
+{
+    height: 3em;
+}
+
+.menu-item
+{
+    float: left;
+    height: 2em;
+    padding-right: 2em;
+}
+
+.menu-item a
+{
+    color: #180d0a;
+    text-decoration: none;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+.menu-item a:hover
+{
+    text-decoration: underline;
+}
+
+.menu-item-current
+{
+    padding-left: 24px;
+    background: transparent url(menu-item-current.gif) no-repeat 0 60%;
+}
+
+.menu-item-current a
+{
+    font-size: 170%;
+    cursor: default;
+}
+
+.menu-item-current a:hover
+{
+    text-decoration: none;
+}
