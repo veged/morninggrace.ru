@@ -1,0 +1,51 @@
+.container
+{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.layout
+{
+    width: 100%;
+    height: 100%;
+}
+
+.layout-gap
+{
+    width: 10%
+}
+
+.layout-gap i
+{
+    display: block;
+
+    width: 20px;
+}
+
+.layout-left,
+.layout-gap-left
+{
+    color: #180d0a;
+    background-color: #f6debb;
+}
+
+.layout-left
+{
+
+}
+
+.layout-right,
+.layout-gap-right
+{
+    color: #f6debb;
+    background-color: #180d0a;
+}
+
+.layout-right
+{
+    width: 24%;
+}
+

@@ -1,0 +1,19 @@
+.head h1
+{
+    padding: 0;
+    margin: 0;
+    font-size: 200%;
+    font-weight: normal;
+}
+
+.head .layout-left
+{
+    padding: 1.5em 0;
+}
+
+.head-decoration div
+{
+    width: 100%;
+    height: 1px;
+    font-size: 1px;
+}

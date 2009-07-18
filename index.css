@@ -1,5 +1,25 @@
+@import url(layout/layout.css);
+@import url(head/head.css);
+
 body
 {
+    margin: 0;
+    padding: 0;
+
+    height: 100%;
+
     font: 0.8em Arial, sans-serif;
-    background: #fff;
+    background: #f6debb;
+}
+
+table, table th, table td
+{
+    margin: 0;
+    padding: 0;
+
+    text-align: left;
+    vertical-align: top;
+
+    empty-cells: show;
+    border-collapse: collapse;
 }
